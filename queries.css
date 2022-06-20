@@ -1,0 +1,135 @@
+
+
+@media only screen and(max-width:1303px){
+/* .image-ca{
+    width: 100%;
+    height: auto;
+
+
+} */
+*{
+    font-size: 100%;
+}
+.sizee{
+    font-size: 75% !important;
+}
+
+nav{
+    font-size:large !important;
+}
+
+
+}
+
+
+@media only screen and (max-width:1134px){
+    .box{
+        width: 50% !important;
+    }
+    .items{
+        width: 80%;
+    }
+    nav{
+        font-size:large !important;
+    }
+}
+
+@media only screen and (max-width:800px){
+    /* .image-ca{
+        width: 80% !important;
+        height: auto;
+    } */
+
+    *{
+        font-size: 90%;
+    }
+
+    .box{
+        width: 50% !important;
+    }
+    nav{
+        font-size:large !important;
+    }
+    
+    }
+
+
+    @media only screen and (max-width:614px){
+        *{
+            /* font-size: %; */
+        }
+        .box{
+            width: 60% !important; 
+        }
+        .items{
+            width: 85%;
+        }
+        nav{
+            font-size:large !important;
+        }
+    }
+
+    @media only screen and (max-width:510px){
+        *{
+            font-size: 90% important;
+        }
+        .box{
+            width: 60% !important; 
+        }
+
+        /* .heading{
+            font-size: 90% !important;
+        } */
+        .items{
+            width: 100%;
+        }
+        .happy{
+            padding-top: 1% !important;
+            
+        }
+        nav{
+            font-size:xx-large !important;
+        }
+
+    }
+
+    @media only screen and (max-width:485px){
+        .box{
+            width: 70%;
+            padding: 7% !important;
+        }
+        *{
+            font-size: 88% !important;
+        }
+
+        .heading{
+            font-size: 120% !important;
+        }
+        nav{
+            font-size:large !important;
+        }
+    }
+
+    @media only screen and (max-width:490px){
+
+        .box{
+            padding: 8%;
+            border-radius: 12px;
+        }
+        nav{
+            font-size:large !important;
+        }
+    }
+
+    @media only screen and (max-width:368px){
+        *{
+            font-size: 85% !important;
+        }
+        .box{
+            width: 75% !important;
+        }
+        nav{
+            font-size:large !important;
+        }
+
+    }

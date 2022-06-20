@@ -1,0 +1,137 @@
+*{
+    font-family: 'Baloo Paaji 2', cursive;
+    padding: 0%;
+    margin: 0%;
+    /* box-sizing: border-box; */
+}
+
+.logo{
+    font-size: 250%;
+}
+.title{
+    font-size: 44% !important;
+}
+
+
+.hover:hover{
+    background-color: orange;
+    border-radius: 25px;
+    color: whitesmoke !important;
+    border: 2px solid whitesmoke;
+}
+
+.jumbo{
+    /* background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/newscms/2021_07/2233721/171120-smile-stock-njs-333p.jpg')  */
+    background-color: aliceblue;
+    
+}
+
+.box{
+    display: inline-block;
+    background-color: #d5ba86;
+    border-radius: 50px;
+    width: 35%;
+}
+.choose{
+    text-align: center;
+}
+.pa{
+    text-align: center;
+    
+}
+
+.size{
+    width: 600px !important;
+    /* margin: auto !important; */
+}
+
+.icons{
+    font-size: 200%;
+    color: orange;
+}
+
+.sizing{
+    font-size: 55% !important;
+}
+
+.sec2{
+    background-color: beige;
+}
+
+.center{
+    display: inline-block;
+    margin: auto;
+}
+
+
+.just{
+    margin: auto;
+    width: 8%;
+}
+
+.navv{
+    background-color: #0dcaf0!important;
+}
+
+.wapp{
+    font-size: 500% !important;
+    left: 3% !important;
+    bottom: 3%;
+    /* color: orange; */
+}
+
+.colo{
+    color: #25d366;
+}
+
+.sizee{
+    font-size: 100% ;
+}
+
+.happy{
+    text-align:right;
+
+}
+.Smile{
+    font-size: 173%;
+}
+
+.happy span{
+    font-size: 60% !important;
+}
+
+.image-ca{
+    width: 100%;
+    height: auto;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.items{
+    width:60%;
+    margin: 10px;
+    align-self: center;
+
+}
+
+.flexy{
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .buttonn{
+    
+} */
+
+.heading{
+    font-size: 140%;
+}
+
+.arrange a{
+    display: inline;
+    
+}
